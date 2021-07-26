@@ -1,8 +1,9 @@
 https://www.youtube.com/watch?v=zM93yZ_8SvE&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8
 
-39:30
+52:36
 
 https://github.com/safak/youtube/blob/react-social-ui/src/components/topbar/topbar.css
 
 https://fonts.google.com/specimen/Roboto
 
+https://html-css-js.com/css/generator/box-shadow/
