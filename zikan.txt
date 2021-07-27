@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=zM93yZ_8SvE&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8
 
-1:07:13
+1:24:10
 
 https://github.com/safak/youtube/blob/react-social-ui/src/components/topbar/topbar.css
 

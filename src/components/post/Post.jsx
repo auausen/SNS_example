@@ -21,13 +21,17 @@ export default function Post() {
         </div>
         <div className="postCenter">
           <span className="postText">hey its my first post</span>
-          <img  className="postImg" src="/assets/post/1.jpeg" alt="" />
+          <img className="postImg" src="/assets/post/1.jpeg" alt="" />
         </div>
         <div className="postButtom">
           <div className="postBottomLeft">
-            <img src="" alt="" />
+            <img className="likeIcon" src="/assets/like.png" alt="" />
+            <img className="likeIcon" src="/assets/heart.png" alt="" />
+            <span className="postLikeCounter">32 people liked it</span>
           </div>
-          <div className="postBottomRight"></div>
+          <div className="postBottomRight">
+            <span className="postCommentText">9 comments</span>
+          </div>
         </div>
       </div>
     </div>
