@@ -1,8 +1,8 @@
-https://www.youtube.com/watch?v=zM93yZ_8SvE&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8
+https://www.youtube.com/watch?v=pFHyZvVxce0&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8&index=2
 
-1:32:18
+0
 
-https://github.com/safak/youtube/blob/react-social-ui/src/components/topbar/topbar.css
+https://github.com/safak/youtube/tree/mern-social-app
 
 https://fonts.google.com/specimen/Roboto
 
